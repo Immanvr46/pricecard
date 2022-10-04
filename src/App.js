@@ -1,5 +1,4 @@
 import './App.css'
-import react from 'react'
 import PriceCard from './components/PriceCard';
 let data=[
   {
